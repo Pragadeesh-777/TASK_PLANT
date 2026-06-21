@@ -1,0 +1,78 @@
+2026-06-21T15:10:01.027Z - 404 - Not Found - /api/auth/tasks
+Error: Not Found - /api/auth/tasks
+    at notFound (E:\Social_Task_Plant\backend\middleware\errorMiddleware.js:8:17)
+    at Layer.handle [as handle_request] (E:\Social_Task_Plant\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:328:13)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:280:10)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:646:15
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:265:14)
+    at router.handle (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:47:12)
+
+2026-06-21T15:10:01.094Z - 404 - Not Found - /api/auth/tasks
+Error: Not Found - /api/auth/tasks
+    at notFound (E:\Social_Task_Plant\backend\middleware\errorMiddleware.js:8:17)
+    at Layer.handle [as handle_request] (E:\Social_Task_Plant\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:328:13)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:280:10)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:646:15
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:265:14)
+    at router.handle (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:47:12)
+
+2026-06-21T15:10:15.045Z - 404 - Not Found - /api/auth/tasks
+Error: Not Found - /api/auth/tasks
+    at notFound (E:\Social_Task_Plant\backend\middleware\errorMiddleware.js:8:17)
+    at Layer.handle [as handle_request] (E:\Social_Task_Plant\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:328:13)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:280:10)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:646:15
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:265:14)
+    at router.handle (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:47:12)
+
+2026-06-21T15:10:30.658Z - 404 - Not Found - /api/auth/claim-daily
+Error: Not Found - /api/auth/claim-daily
+    at notFound (E:\Social_Task_Plant\backend\middleware\errorMiddleware.js:8:17)
+    at Layer.handle [as handle_request] (E:\Social_Task_Plant\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:328:13)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:280:10)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:646:15
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:265:14)
+    at router.handle (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:47:12)
+
+2026-06-21T15:10:50.469Z - 404 - Not Found - /api/auth/tasks
+Error: Not Found - /api/auth/tasks
+    at notFound (E:\Social_Task_Plant\backend\middleware\errorMiddleware.js:8:17)
+    at Layer.handle [as handle_request] (E:\Social_Task_Plant\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:328:13)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:280:10)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:646:15
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:265:14)
+    at router.handle (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:47:12)
+
+2026-06-21T15:10:50.529Z - 404 - Not Found - /api/auth/tasks
+Error: Not Found - /api/auth/tasks
+    at notFound (E:\Social_Task_Plant\backend\middleware\errorMiddleware.js:8:17)
+    at Layer.handle [as handle_request] (E:\Social_Task_Plant\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:328:13)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:280:10)
+    at E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:646:15
+    at next (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:265:14)
+    at router.handle (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Social_Task_Plant\backend\node_modules\express\lib\router\index.js:47:12)
+
