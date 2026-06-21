@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create central Axios instance pointing to Express server
 const API = axios.create({
-  baseURL: 'http://localhost:5000/api',
+  baseURL: import.meta.env.PROD ? '/_/backend/api' : 'http://localhost:5000/api',
   headers: {
     'Content-Type': 'application/json',
   },
